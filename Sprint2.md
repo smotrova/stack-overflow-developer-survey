@@ -3,10 +3,10 @@
 ## Week 4-6
 
 1. Feature engineering and transforming raw text into "model-ready" data, for example:
-* Create a binary column for each technology (e.g., has_python, has_C)
+* Create a binary column for each technology (e.g., `has_python`, `has_C`, etc.)
 * If necessary for high cardinal features, combine values into broader group
 * If necessary, convert values into binned categories
-* Create new features you find valuable for your analysis (e.g., user_score based on how many different tools a developer uses)
+* Create new features you find valuable for your analysis (e.g., `user_score` based on how many different tools a developer uses)
 * Merge all engineered features into a single modelling dataset
 * Split into train (80%) and test (20%) for final evaluation
 
