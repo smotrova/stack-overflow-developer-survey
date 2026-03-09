@@ -11,7 +11,7 @@ This table tracks the development steps of our data analysis project
 | 3 | **Feature Extraction: Top 10 Programming Languages** | 2026-04-12 | 2026-04-14 | [Name] | `scripts/new_features.py` | To Do |
 | 4 | **Exploratory Salary Analysis** | 2026-04-14 | 2026-04-17 | [Name] | `02_eda_salary_analysis_Name.ipynb` | To Do |
 | 5 | ...| ... | ... | [Name] | ... | Failed |
-| ... | **Report Sprint 1** | ... | ... | Both | `report_eda.ipynb` | To Do |
+| ... | **Report Sprint 1** | ... | ... | [Name] | `report_eda.ipynb` | To Do |
 
 ---
 
@@ -22,7 +22,7 @@ This table tracks the development steps of our data analysis project
 | 1 | ... | 2026-04-23 | ... | [Name] | ... |  Done |
 | 2 | ...| ... | ... | [Name] | ... | In Progress |
 | 3 | ...| ... | ... | [Name] | ... | Failed |
-| ... | **Report Sprint 2** | ... | ... | Both | `report_best_models.ipynb` | To Do |
+| ... | **Report Sprint 2** | ... | ... | [Name] | `report_best_models.ipynb` | To Do |
 
 ---
 
@@ -33,6 +33,6 @@ This table tracks the development steps of our data analysis project
 | 1 | ... | 2026-05-26 | ... | [Name] | ... |  Done |
 | 2 | ...| ... | ... | [Name] | ... | In Progress |
 | 3 | ...| ... | ... | [Name] | ... | Failed |
-| ... | **Final Report** | ... | ... | All | `final_report.ipynb` | To Do |
-| ... | **Final Presentation** | ... | ... | All | `project_presentation.pdf` | To Do |
+| ... | **Final Report** | ... | ... | [All] | `final_report.ipynb` | To Do |
+| ... | **Final Presentation** | ... | ... | [All] | `project_presentation.pdf` | To Do |
 
