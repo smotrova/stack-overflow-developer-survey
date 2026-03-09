@@ -1,26 +1,19 @@
 # Project Structure 
 
 
+```
 ├── data/
+│   ├── data_dictionary.md   # Metadata
+│   └── .gitignore           # (Contains: *.csv, *.zip)
+├── notebooks/               # Jupyter Notebooks (numbered sequentially)
+├── reports/                 # Written report & Presentation slides
+├── src/                     # Modular Python scripts
+├── .gitignore               # Exclude large data files & local envs
+├── requirements.txt         # list of all the specific Python libraries and their versions 
+├── workflow.md              # track the development lifecycle
+└── README.md                # objective, setup, and key findings
 
-│   ├── data_dictionary.md   #  Metadata
-
-│   └── .gitignore           #  (Contains: *.csv, *.zip)
-
-├── notebooks/          # Jupyter Notebooks (numbered sequentially)
-
-├── reports/            # Written report & Presentation slides
-
-├── src/                # Modular Python scripts
-
-├── .gitignore          # Exclude large data files & local envs
-
-|——— requirements.txt  	# list of all the specific Python libraries and their versions 
-
-|———workflow.md    # track the development lifecycle
-
-└── README.md      # objective, setup, and key findings
-
+```
 
 Standardize your repository to ensure reproducibility:
 
