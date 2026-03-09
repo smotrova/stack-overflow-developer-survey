@@ -10,8 +10,7 @@ This project uses the [2025 Stack Overflow Developer Survey](https://survey.stac
 
 ## Case Study: Predictive Modelling of Developer Compensation
 
-This case study examines the complex factors that influence global developer salaries using advanced regression techniques on the 2025 Stack Overflow dataset. The primary objective is to quantify the predictive power of various demographic indicators—including age, formal education level, professional experience, developer roles, employment, work environment, geographic location, etc. — on annual compensation.
-The study will investigate whether the ‘educational premium’ for traditional degrees still outweighs the growing trend of online certifications. It will analyse and predict which demographic factors and industry niches are most predictive of high-income brackets. The findings will serve as a data-driven benchmark for students to assess their career prospects and negotiate compensation based on objective global market trends.
+This case study examines the complex factors that influence global developer salaries using advanced regression techniques on the [2025 Stack Overflow](https://survey.stackoverflow.co/) dataset. The primary objective is to quantify the predictive power of various indicators — age, formal education level, professional experience, developer roles, employment, work environment, geographic location, etc. — on annual compensation. The study will serve as a data-driven benchmark for students to assess their career prospects and negotiate compensation based on objective global market trends.
 
 ## 9‑Week Project Schedule
 
