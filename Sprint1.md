@@ -18,12 +18,10 @@
 * What is the effect of the highest level of formal education on starting salaries for those with less than two years of experience? 
 * Does a Master’s degree offer a substantial salary increase compared to a Bachelor’s degree?
 * How does the number of years of professional experience vary across different age groups?
-* Which programming languages have the highest retention rate (percentage of people who worked with it and want to continue) and the highest churn rate (worked with it but don’t want to continue)? 
 * What are the most popular combinations of Cloud Platforms and Databases? (e.g., Are AWS users more likely to use PostgreSQL?)
 * Are developers sceptical about vibe coding, and is there a difference between junior and senior developers?
 * What are the main ways professional developers learn AI?
-* Does the type of work environment (remote, in-person, hybrid) have a significant impact on job satisfaction (0-10)?
-* What job attribute is most important to developers who are very satisfied, according to their reports? Is it ‘Competitive pay’ or ‘Autonomy and trust’?
+* Does the type of work environment (remote, in-person, hybrid) have a significant impact on salary?
 * How many unique software applications do professional developers and students typically use? 
 * Can you ask more questions to get interesting information from the data?
 
