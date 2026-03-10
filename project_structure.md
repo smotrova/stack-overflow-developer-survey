@@ -3,7 +3,8 @@
 
 ```
 ├── data/
-│   ├── data_dictionary.md   # Metadata
+│   ├── data_dictionary.md   # Metadata on an initial raw dataset
+    ├── processed_data_dictionary.md  # Metadata on data prepared for modelling
 │   └── .gitignore           # (Contains: *.csv, *.zip)
 ├── notebooks/               # Jupyter Notebooks (numbered sequentially)
 ├── reports/                 # Written report & Presentation slides
