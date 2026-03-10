@@ -6,8 +6,8 @@
 * Create a binary column for each technology (e.g., `has_python`, `has_C`, etc.)
 * If necessary for high cardinal features, combine values into broader group
 * If necessary, convert values into binned categories
-* Create new features you find valuable for your analysis (e.g., `user_score` based on how many different tools a developer uses)
-* Merge all engineered features into a single modelling dataset
+* Create new features you find valuable for your analysis (e.g., `dev_score` based on how many different tools a developer uses)
+* Merge all engineered features into a single modelling dataset. Do not forget to update data folder and add information on new features (`processed_data_dictionary.md`)
 * Split into train (80%) and test (20%) for final evaluation
 
 2. The modelling strategy balances interpretability with predictive performance:
