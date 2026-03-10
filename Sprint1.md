@@ -14,7 +14,7 @@
 
 3. Define a set of 10-15 questions based on your chosen hypothesis to gain insights from the data. 
 
-* Is there a direct relationship between ‘Years of professional work experience’ and ‘Total annual compensation’?
+* Is there a correlation between ‘Years of professional work experience’ and ‘Total annual compensation’?
 * What is the effect of the highest level of formal education on starting salaries for those with less than two years of experience? 
 * Does a Master’s degree offer a substantial salary increase compared to a Bachelor’s degree?
 * How does the number of years of professional experience vary across different age groups?
