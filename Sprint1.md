@@ -25,7 +25,7 @@
 * How many unique software applications do professional developers and students typically use? 
 * Can you ask more questions to get interesting information from the data?
 
-Note: The questions above are just an example and do not support any hypothesis.
+_Note_: The questions above are just an example and do not support any hypothesis. More could be found [here](https://survey.stackoverflow.co/2025/).
 
 Questions form the basis of your investigation and help you choose your further steps in data cleaning. They enable you to define a subset of variables of interest and clean only the data necessary to answer the questions in the context of your hypothesis.
 
