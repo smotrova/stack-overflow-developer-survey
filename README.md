@@ -2,7 +2,8 @@
 
 #ReDI  #26s_dcp_data_circle #data_project
 
-> **Original concept by [Nelson](https://github.com/nelsonlage)**
+> **Original idea proposed by [Nelson](https://github.com/nelsonlage) in 2024 as a student project for the Data Circle course at [ReDI School of Digital Integration](https://www.redi-school.org/).**
+> 
 
 ## Objective
 This project uses a structured, end-to-end analytical workflow to investigate global developer trends using the [Stack Overflow 2025 Developer Survey](https://survey.stackoverflow.co/) dataset. It ensures statistical rigour, reproducibility, and alignment with industry benchmarks to provide actionable insights into the evolving professional landscape, identify high-value skill sets, and support data-driven career positioning. 
